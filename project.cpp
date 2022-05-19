@@ -27,11 +27,11 @@ BlynkTimer timer;
 //==========================================================================================
 
 // Token a ser inserido para se ter acesso ao código no Blynk
-char auth[] = "x5r4OPqnOePDK-FoYkEz7zIhOWNfe2bA";
+char auth[] = "xxxx";
 
 // Nome e senha do WiFi que será utilizado
-char ssid[] = "Nasi";
-char pass[] = "26118950";
+char ssid[] = "xxxx";
+char pass[] = "xxxx";
 
 //==========================================================================================
 
